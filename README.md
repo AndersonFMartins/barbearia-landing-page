@@ -11,4 +11,4 @@ Landing page desenvolvida somente com HTML, CSS e JavaScript.
 Projeto criado para praticar desenvolvimento front-end.
 
 ## Preview
-(link do GitHub Pages)
+[(Barbearia do Zé)](https://andersonfmartins.github.io/barbearia-landing-page/)
